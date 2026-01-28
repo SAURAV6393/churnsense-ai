@@ -1,0 +1,8 @@
+{
+  "name": "ChurnSense AI",
+  "description": "Enterprise-grade customer churn prediction and retention intelligence platform.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
