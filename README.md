@@ -66,4 +66,4 @@ The frontend is integrated as an ES module system. Ensure your environment varia
 **Role:** Lead Data Engineer  
 **Project:** B.Tech Capstone Project in Applied Machine Learning  
 
-[GitHub Repository](https://github.com/SAURAV6393/ChurnSense) | [Project Report](https://github.com/SAURAV6393/ChurnSense/docs/report.pdf)
+[GitHub Repository](https://github.com/SAURAV6393/churnsense-ai.git) | [Project Report](https://github.com/SAURAV6393/ChurnSense/docs/report.pdf)
