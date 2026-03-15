@@ -5,7 +5,7 @@ import time
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from app.routes import auth, prediction
+from backend.app.routes import auth, prediction
 from app.services.db_service import db_client
 
 # Initialize Logging
